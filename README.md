@@ -51,6 +51,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Matrix Trace | Compute the trace of a square NumPy matrix by summing its main-diagonal elements with numeric dtype support. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-matrix-trace |
 | Matrix Transpose | Transpose a rectangular NumPy matrix by swapping its row and column axes without changing element values. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-matrix-transpose |
 | Matrix-Vector Multiply | Multiply a NumPy matrix by a compatible vector, producing one row-wise dot product per output element. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-matrix-vector-multiply |
+| Orthogonal Projection Matrix | Construct the orthogonal projection matrix onto the column space of a full-column-rank matrix. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-orthogonal-projection |
 | Outer Product | Compute the NumPy outer product of two vectors as a matrix containing every pairwise element multiplication. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-outer-product |
 | Solve Linear System | Solve an invertible square linear system for the unique vector satisfying the matrix equation. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-solve-linear-system |
 | SVD Components | Compute singular values and aligned singular vectors for a possibly rank-deficient matrix using NumPy. | https://www.tensortonic.com/study-plans/math-linear-algebra/la-svd-components |
