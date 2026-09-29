@@ -116,6 +116,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Mean, Median, Mode | Compute mean, median, and a deterministically selected mode for a one-dimensional numeric sample. | https://www.tensortonic.com/problems/probstat-mean-median-mode |
 | Percentiles / Quantiles | Compute requested data percentiles with linear interpolation using NumPy-compatible quantile semantics. | https://www.tensortonic.com/problems/probstat-percentiles |
 | Sample Variance & Standard Deviation | Compute unbiased sample variance and standard deviation with Bessel correction for a numeric sample. | https://www.tensortonic.com/problems/probstat-sample-var-std |
+| Skewness and Kurtosis | Compute sample skewness and excess kurtosis, then classify the distribution's asymmetry and tail shape. | https://www.tensortonic.com/problems/probstat-skewness-kurtosis |
 | Activation Functions | Implement four common activation functions from scratch using basic PyTorch tensor operations (no torch.nn module). | https://www.tensortonic.com/problems/pytorch-activation-function-from-scratch |
 | Attention Mechanism from Scratch | Implement the scaled dot-product attention mechanism, a core building block of the Transformer architecture. | https://www.tensortonic.com/problems/pytorch-attention-from-scratch |
 | Balanced DataLoader | Build a PyTorch DataLoader that balances class sampling with per-example weights derived from label frequencies. | https://www.tensortonic.com/problems/pytorch-balanced-dataloader |
