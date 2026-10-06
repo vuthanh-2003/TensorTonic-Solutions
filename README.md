@@ -116,6 +116,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Basic Probability Rules | Compute union, complement, and exclusive-event probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-basic-probability-rules |
 | Bayes' Theorem | Compute a posterior probability from a prior, likelihood, and false-positive rate using Bayes' theorem. | https://www.tensortonic.com/problems/probstat-bayes-theorem |
 | Binomial Distribution | Compute the full probability mass function, summary statistics, and the probability of at least a given number of successes. | https://www.tensortonic.com/problems/probstat-binomial-distribution |
+| Bootstrap Confidence Interval | Estimate a sample mean and percentile bootstrap confidence interval from deterministic resamples. | https://www.tensortonic.com/problems/probstat-bootstrap-ci |
 | Central Limit Theorem | Compute the sample mean, standard error, and a confidence interval for the population mean using the CLT normal approximation. | https://www.tensortonic.com/problems/probstat-clt-confidence-interval |
 | Conditional Probability | Compute both directional conditional probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-conditional-probability |
 | Discrete Moments | Given the values and probabilities of a discrete random variable, compute its first two moments, variance, and standard deviation. | https://www.tensortonic.com/problems/probstat-discrete-moments |
