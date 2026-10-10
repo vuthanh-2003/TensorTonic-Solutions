@@ -133,6 +133,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Skewness and Kurtosis | Compute sample skewness and excess kurtosis, then classify the distribution's asymmetry and tail shape. | https://www.tensortonic.com/problems/probstat-skewness-kurtosis |
 | Standard Error Comparison | Given multiple samples, compute the standard error of the mean for each sample and the average standard error across all samples. | https://www.tensortonic.com/problems/probstat-standard-errors |
 | Stratified Sampling | Compute proportional allocation of a total sample and the resulting stratified estimator's mean and standard error. | https://www.tensortonic.com/problems/probstat-stratified-sampling |
+| Z-Test (One Sample) | Perform a two-tailed one-sample z-test from a sample mean, hypothesized mean, known deviation, and sample size. | https://www.tensortonic.com/problems/probstat-z-test-one-sample |
 | Activation Functions | Implement four common activation functions from scratch using basic PyTorch tensor operations (no torch.nn module). | https://www.tensortonic.com/problems/pytorch-activation-function-from-scratch |
 | Attention Mechanism from Scratch | Implement the scaled dot-product attention mechanism, a core building block of the Transformer architecture. | https://www.tensortonic.com/problems/pytorch-attention-from-scratch |
 | Balanced DataLoader | Build a PyTorch DataLoader that balances class sampling with per-example weights derived from label frequencies. | https://www.tensortonic.com/problems/pytorch-balanced-dataloader |
