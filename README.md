@@ -125,6 +125,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Exponential Distribution | Compute the PDF, CDF, survival probability, mean, and variance of an exponential distribution. | https://www.tensortonic.com/problems/probstat-exponential-distribution |
 | Independence Testing | Determine whether two events are independent from their marginal probabilities and intersection probability. | https://www.tensortonic.com/problems/probstat-independence-testing |
 | Mean, Median, Mode | Compute mean, median, and a deterministically selected mode for a one-dimensional numeric sample. | https://www.tensortonic.com/problems/probstat-mean-median-mode |
+| Maximum Likelihood Estimation | Estimate the maximum-likelihood mean and standard deviation for observations from a normal distribution. | https://www.tensortonic.com/problems/probstat-mle-normal |
 | Normal Distribution | Compute the z-score, cumulative probability (CDF), probability density (PDF), and the probability of falling within one standard deviation of the mean. | https://www.tensortonic.com/problems/probstat-normal-distribution |
 | P-Values and Significance | Compute one-sided or two-sided p-values from the requested reference distribution and classify significance thresholds. | https://www.tensortonic.com/problems/probstat-p-value-analysis |
 | Compute Pearson Correlation Matrix | Compute the complete Pearson correlation matrix across dataset features with stable handling of numeric inputs. | https://www.tensortonic.com/problems/probstat-pearson-correlation |
