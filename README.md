@@ -116,6 +116,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | A/B Test Significance | Perform a two-proportion z-test to determine if the treatment conversion rate is significantly different from the control. | https://www.tensortonic.com/problems/probstat-ab-test-significance |
 | Basic Probability Rules | Compute union, complement, and exclusive-event probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-basic-probability-rules |
 | Bayes' Theorem | Compute a posterior probability from a prior, likelihood, and false-positive rate using Bayes' theorem. | https://www.tensortonic.com/problems/probstat-bayes-theorem |
+| Bayesian Updating | Update a Beta prior with Binomial observations and report posterior parameters plus prior and posterior means. | https://www.tensortonic.com/problems/probstat-bayesian-updating |
 | Binomial Distribution | Compute the full probability mass function, summary statistics, and the probability of at least a given number of successes. | https://www.tensortonic.com/problems/probstat-binomial-distribution |
 | Bootstrap Confidence Interval | Estimate a sample mean and percentile bootstrap confidence interval from deterministic resamples. | https://www.tensortonic.com/problems/probstat-bootstrap-ci |
 | Chi-Square Goodness of Fit | Perform a chi-square goodness-of-fit test to determine whether the observed distribution differs significantly from the expected one. | https://www.tensortonic.com/problems/probstat-chi-square-test |
