@@ -30,6 +30,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Limit of a Learning Rate Schedule | Evaluate the long-run limit of an inverse-time learning-rate schedule from its initial rate and decay constant. | https://www.tensortonic.com/problems/calculus-lr-schedule-limit |
 | Sigmoid Boundedness via Squeeze Theorem | Verify sigmoid bounds numerically with a squeeze-theorem construction and expose its saturation behavior. | https://www.tensortonic.com/problems/calculus-sigmoid-squeeze |
 | Softmax Numerical Stability & Log-Sum-Exp | Implement both naive softmax and the numerically stable version using the log-sum-exp trick. | https://www.tensortonic.com/problems/calculus-softmax-stability |
+| Subgradients for Non-Smooth Functions | Compute valid subgradients for absolute value, ReLU, and maximum functions at smooth and nonsmooth points. | https://www.tensortonic.com/problems/calculus-subgradients |
 | Compute Entropy for a Node | Compute decision-tree node entropy from class labels using empirical class probabilities and base-two logarithms. | https://www.tensortonic.com/problems/entropy-node |
 | Expected Value (Discrete Distribution) | Compute the expected value of a discrete distribution from matched outcomes and normalized probabilities. | https://www.tensortonic.com/problems/expected-value-discrete |
 | Frequency Encoding | Replace categorical values with their observed frequencies while preserving the original sequence order. | https://www.tensortonic.com/problems/frequency-encoding |
