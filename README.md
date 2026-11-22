@@ -46,6 +46,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Area Under the ROC Curve via Trapezoidal Rule | Compute ROC curve points and area under the curve with threshold ordering and trapezoidal integration. | https://www.tensortonic.com/problems/calculus-roc-auc |
 | Second-Order Partial Derivatives | Compute both pure second-order partial derivatives of a supplied bivariate polynomial at a requested point. | https://www.tensortonic.com/problems/calculus-second-order-partials |
 | Sigmoid Boundedness via Squeeze Theorem | Verify sigmoid bounds numerically with a squeeze-theorem construction and expose its saturation behavior. | https://www.tensortonic.com/problems/calculus-sigmoid-squeeze |
+| Softmax + Cross-Entropy Gradient | Compute the softmax probabilities, the cross-entropy loss, and the gradient two ways. | https://www.tensortonic.com/problems/calculus-softmax-ce-gradient |
 | Softmax Numerical Stability & Log-Sum-Exp | Implement both naive softmax and the numerically stable version using the log-sum-exp trick. | https://www.tensortonic.com/problems/calculus-softmax-stability |
 | Subgradients for Non-Smooth Functions | Compute valid subgradients for absolute value, ReLU, and maximum functions at smooth and nonsmooth points. | https://www.tensortonic.com/problems/calculus-subgradients |
 | Taylor Approximation of a Loss Landscape | Build first-order (linear) and second-order (quadratic) Taylor approximations of a loss function at a given point. | https://www.tensortonic.com/problems/calculus-taylor-approximation |
