@@ -128,6 +128,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Classify a Critical Point from the Hessian | Classify a stationary point as a minimum, maximum, or saddle from the eigenvalues of its Hessian. | https://www.tensortonic.com/problems/optim-critical-point-classification |
 | Minimum of an Axis-Aligned Paraboloid | Compute the coordinates and objective value at the minimum of an axis-aligned convex paraboloid. | https://www.tensortonic.com/problems/optim-paraboloid-minimum |
 | Minimum of a Univariate Quadratic | Compute the minimizer and minimum value of a strictly convex univariate quadratic from its coefficients. | https://www.tensortonic.com/problems/optim-quadratic-minimum |
+| Vanilla Gradient Descent | Implement vanilla gradient descent to minimize a two-variable function from a given starting point, returning the full optimization trajectory. | https://www.tensortonic.com/problems/optim-vanilla-gd |
 | Aggregation Functions | Implement Aggregation Functions, and return a dict mapping each function name to a dict of group label to aggregated value. | https://www.tensortonic.com/problems/pandas-aggregation-functions |
 | Apply Custom Transforms | Apply a named transformation to one pandas column and store the result in a new derived column. | https://www.tensortonic.com/problems/pandas-apply-custom-functions |
 | Boolean Indexing | Filter pandas rows by a numeric column threshold and return the matching records with their original column order. | https://www.tensortonic.com/problems/pandas-boolean-indexing |
