@@ -146,6 +146,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Minimum of an Axis-Aligned Paraboloid | Compute the coordinates and objective value at the minimum of an axis-aligned convex paraboloid. | https://www.tensortonic.com/problems/optim-paraboloid-minimum |
 | Minimum of a Univariate Quadratic | Compute the minimizer and minimum value of a strictly convex univariate quadratic from its coefficients. | https://www.tensortonic.com/problems/optim-quadratic-minimum |
 | RMSProp | Implement the RMSProp optimizer to train a linear regression model using full-batch gradient descent with MSE loss. | https://www.tensortonic.com/problems/optim-rmsprop |
+| Optimizer Showdown | Implement and compare three optimizers on binary classification using logistic regression with mini-batch training. | https://www.tensortonic.com/problems/optim-showdown |
 | Vanilla Gradient Descent | Implement vanilla gradient descent to minimize a two-variable function from a given starting point, returning the full optimization trajectory. | https://www.tensortonic.com/problems/optim-vanilla-gd |
 | Aggregation Functions | Implement Aggregation Functions, and return a dict mapping each function name to a dict of group label to aggregated value. | https://www.tensortonic.com/problems/pandas-aggregation-functions |
 | Apply Custom Transforms | Apply a named transformation to one pandas column and store the result in a new derived column. | https://www.tensortonic.com/problems/pandas-apply-custom-functions |
